@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Hero Academy Resource Pack",
+    "description": "Companion resources for Hero Academy powers.",
+    "uuid": "991338ae-d67c-4d0f-ac04-781b5ed5e14b",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 50]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "e37736f2-5328-4461-bd2a-ff505d7a0193",
+      "version": [1, 0, 0]
+    }
+  ]
+}

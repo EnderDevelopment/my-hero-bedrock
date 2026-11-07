@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Hero Academy Behavior Pack",
+    "description": "Superhero academy abilities and command functions.",
+    "uuid": "a4728efa-e749-4a83-99dd-d60fb6dc2304",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 50]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "26c0bc59-d9e2-4b27-ab7a-cb54d82c1e83",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "991338ae-d67c-4d0f-ac04-781b5ed5e14b",
+      "version": [1, 0, 0]
+    }
+  ]
+}
